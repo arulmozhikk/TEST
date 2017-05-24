@@ -1,4 +1,4 @@
-
+console.log('My First Program');
 console.log('starting aws dynamo functions');
 
 var aws= require('aws-sdk');
