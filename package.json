@@ -1,0 +1,18 @@
+{
+  "name": "videoplayerapi",
+  "version": "1.0.0",
+  "description": "Middleware for Ooyala Video Player",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "*",
+    "body-parser": "*",
+    "express":"*",
+    "underscore":"*"
+  }
+}
